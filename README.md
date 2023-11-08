@@ -6,7 +6,7 @@
 - 👋 Hi, I’m Yousif
 - 👀 I love swimming and TableTennis
 - 🌱 I’m currently learning **ReactJS**, **NodeJS**, **MongoDB**, **ExpressJS** and acing on Python and Java...
-- 📫 How to reach me rekhiachint@gmail.com
+- 📫 How to reach me yalbayat@my.centennialcollege.ca
 
 
 
@@ -16,7 +16,7 @@
 
 ### Reach me here!
 
-<a href = "https://www.linkedin.com/in/achint25/"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50px></a>
+<a href = "www.linkedin.com/in/yousifalbayati"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width=50px></a>
 
 
 
